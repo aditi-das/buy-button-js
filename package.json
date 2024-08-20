@@ -101,7 +101,7 @@
   },
   "dependencies": {
     "@babel/runtime": "7.18.9",
-    "browserify": "16.3.0",
+    "browserify": "^17.0.0",
     "morphdom": "2.6.1",
     "mustache": "3.0.1",
     "sass": "1.54.3",
